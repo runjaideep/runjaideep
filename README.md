@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @runjaideep
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science projects.
+👋 Hi, I’m @runjaideep, a Business Analyst and AI enthusiast.
+🌱 I’m currently expanding my knowledge in Python, Data Science methodologies, and AI to build impactful solutions.
+💞️ I’m looking to collaborate on Data Science projects, AI-based systems, and software development initiatives.
 
 <!---
 runjaideep/runjaideep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
